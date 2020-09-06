@@ -21,4 +21,4 @@ Esta atividade consiste em desenvolver uma modelagem de um aplicativo de superme
 
 ### Desenho da ideia
 
-![Estrutura do App](img src="01.png")
+![Estrutura do App](img/01.png)
