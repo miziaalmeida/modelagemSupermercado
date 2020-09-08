@@ -20,5 +20,4 @@ Esta atividade consiste em desenvolver uma modelagem de um aplicativo de superme
 * Atributos e Métodos:
 
 ### Desenho da ideia
-
-![Estrutura do App](img/01.png)
+[![Captura-de-Tela-2020-09-04-a-s-11-59-10.png](https://i.postimg.cc/Gpx251BW/Captura-de-Tela-2020-09-04-a-s-11-59-10.png)](https://postimg.cc/QBVhFwJm)
